@@ -1,3 +1,4 @@
+% Usando el método del gradiente descendiente, encuentre el minimizador y el mínimo de la función de Easom
 clear;
 clc;
 
