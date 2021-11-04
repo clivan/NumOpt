@@ -1,3 +1,4 @@
+%Problema de diseño para un mecanismo de cuatro barras, usando fmincon
 clear
 clc
 
