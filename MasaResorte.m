@@ -1,3 +1,4 @@
+% Siste de dos masas y cuatro resortes.
 clear;
 clc;
 
