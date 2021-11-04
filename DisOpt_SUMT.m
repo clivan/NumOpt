@@ -1,3 +1,4 @@
+%Problema de diesño para un mecanismo de cuatro barras usando SUMT
 clear
 clc
 
