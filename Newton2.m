@@ -1,3 +1,4 @@
+% Método de Newton para el segundo problema.
 clear;
 clc;
 
