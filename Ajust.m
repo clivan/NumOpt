@@ -1,3 +1,4 @@
+% Usando el método de gradientes descendientes, encuentre los valores de a, b, c que ajusten los datos del sistema.
 clear;
 clc;
 
