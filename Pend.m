@@ -1,3 +1,4 @@
+% Simulación de péndulo con fricción viscosa
 clear;
 clc;
 
